@@ -636,7 +636,8 @@
   - [StackState](https://www.stackstate.com/) - The market-leading Algorithmic IT Operations platform
   - [Tingyun](http://www.tingyun.com/tingyun_app.html) - Observability and Analysis, Monitoring
   - [Wavefront](https://www.wavefront.com/) - Wavefront is a hosted platform for ingesting, storing, visualizing and alerting on time series data.
-  - [Zabbix](https://www.zabbix.com/) - The Ultimate Enterprise - class Monitoring Platform  
+  - [Zabbix](https://www.zabbix.com/) - The Ultimate Enterprise - class Monitoring Platform
+  - [Middleware](https://middleware.io) - A Full-stack Cloud Observability Platform 
     
 - Logging
 
